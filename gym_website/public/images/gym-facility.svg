@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#374151"/>
+  
+  <!-- Building structure -->
+  <rect x="30" y="60" width="140" height="100" fill="#DC2626" rx="8"/>
+  
+  <!-- Roof -->
+  <polygon points="30,60 100,20 170,60" fill="#EF4444"/>
+  
+  <!-- Windows -->
+  <rect x="45" y="75" width="20" height="20" fill="#1F2937" rx="2"/>
+  <rect x="75" y="75" width="20" height="20" fill="#1F2937" rx="2"/>
+  <rect x="105" y="75" width="20" height="20" fill="#1F2937" rx="2"/>
+  <rect x="135" y="75" width="20" height="20" fill="#1F2937" rx="2"/>
+  
+  <!-- Door -->
+  <rect x="80" y="125" width="40" height="35" fill="#1F2937" rx="3"/>
+  <circle cx="117" cy="142" r="2" fill="#FCA5A5"/>
+  
+  <!-- Decorative bars on side -->
+  <line x1="35" y1="90" x2="40" y2="90" stroke="#FCA5A5" stroke-width="2"/>
+  <line x1="35" y1="110" x2="40" y2="110" stroke="#FCA5A5" stroke-width="2"/>
+  
+  <!-- Flag on top -->
+  <rect x="98" y="15" width="4" height="10" fill="#1F2937"/>
+  <polygon points="102,17 102,23 108,20" fill="#FCA5A5"/>
+</svg>
