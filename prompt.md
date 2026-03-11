@@ -256,3 +256,6 @@ If user wants booking ask
 • car model
 • problem description
 • phone number
+
+
+pkill -f "next dev" 2>/dev/null; echo "killed"
