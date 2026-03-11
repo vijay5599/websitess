@@ -1,0 +1,17 @@
+{
+  "name": "websitess-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "beauty_industry_website",
+    "car_service_website",
+    "coaching_center_website",
+    "dental_clinic_website",
+    "education_coaching_website",
+    "gym_website",
+    "real_estate_website"
+  ],
+  "dependencies": {
+    "@tailwindcss/oxide-linux-x64-gnu": "^4.2.1"
+  }
+}
